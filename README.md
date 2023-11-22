@@ -36,6 +36,8 @@ The GraphQL API wraps the following Etherscan REST endpoints:
 - `latestEthereumPrice` - Get latest ETH price
 - `blockConfirmationTime` - Get estimated block confirmation time
 
+See the `schema.graphql` file for details.
+
 ## How to run Apollo Server
 
 Starting the Apollo GraphQL Server:
